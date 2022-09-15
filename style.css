@@ -1,1 +1,22 @@
-body{background-color: pink;}
+body{
+    background-color: pink;
+    background-image: url();
+    font-family:'Public Sans', sans-serif;
+}
+.main-header{
+    text-align: center;
+    margin-top: 66px;
+    font-size: 70px;
+    color: #FEE5E5
+}
+.background{
+    background-color: antiquewhite;
+    padding: 50px 50px;
+    margin-left:500px;
+    margin-right:500px;
+    height: 100vh;
+}
+.food-title{
+    color: black;
+    font-size: ;
+}
