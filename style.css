@@ -10,13 +10,29 @@ body{
     color: #FEE5E5
 }
 .background{
-    background-color: antiquewhite;
-    padding: 50px 50px;
-    margin-left:500px;
-    margin-right:500px;
-    height: 100vh;
+    background-color: white;
+    width: 50vw;
+    height: auto;
+    border-radius: 5%;
+    margin: 0 auto
+}
+
+.cookie{
+    height:20px
+    
+    
 }
 .food-title{
     color: black;
-    font-size: ;
+    text-align: center;
+    padding-top: 80px;
+    font-size: 50px;
+}
+.description{
+    font-family: 'Crimson Text', serif;
+    text-align:center
+    
+}
+h3{
+    font-family: 'Public Sans', sans-serif;
 }
