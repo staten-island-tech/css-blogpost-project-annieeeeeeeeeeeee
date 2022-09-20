@@ -1,27 +1,32 @@
 body{
-    background-color: pink;
-    background-image: url();
+    
+    /* background-image: url(https://secure.img1-cg.wfcdn.com/im/05197006/resize-w750%5Ecompr-r85/1516/151601882/Miniatures+2+Floral+Roll+Wallpaper+by+Galerie+Wallcoverings.jpg); */
+    background-color: rgb(248, 225, 229);
 }
 .heading{
     text-align: center;
-    margin-top: 66px;
     font-size: 80px;
     color: #2b1008;
     font-weight: normal;
     font-family: 'Monsieur La Doulaise', cursive;
+    margin-top:60px;
 }
+
+
 .background{
     background-color: white;
     width: 50vw;
     height: 30vw;
     border-radius: 30px;
-    margin: 50px auto
+    margin: 60px auto
 }
 
 .img{
     width: 50vw;
     height: auto;
-    margin:0 auto
+    margin:0 auto;
+    border-top-left-radius:30px;
+    border-top-right-radius:30px;
     
 }
 .food-title{
@@ -29,15 +34,13 @@ body{
     text-align: left;
     padding-top: 1px;
     padding-left: 30px;
-    font-size: 50px;
-    font-family: 'Prata', serif;
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    text-size-adjust: auto;
 }
 .description{
     font-family: 'Crimson Text', serif;
     text-align:left;
     margin-left: 30px
     
-}
-h3{
-    font-family: 'Public Sans', sans-serif;
 }
