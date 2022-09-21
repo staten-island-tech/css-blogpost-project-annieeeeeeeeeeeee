@@ -1,46 +1,46 @@
-body{
-    
-    /* background-image: url(https://secure.img1-cg.wfcdn.com/im/05197006/resize-w750%5Ecompr-r85/1516/151601882/Miniatures+2+Floral+Roll+Wallpaper+by+Galerie+Wallcoverings.jpg); */
-    background-color: rgb(248, 225, 229);
+body {
+  /* background-image: url(https://secure.img1-cg.wfcdn.com/im/05197006/resize-w750%5Ecompr-r85/1516/151601882/Miniatures+2+Floral+Roll+Wallpaper+by+Galerie+Wallcoverings.jpg); */
+  background-color: rgb(248, 225, 229);
 }
-.heading{
-    text-align: center;
-    font-size: 80px;
-    color: #2b1008;
-    font-weight: normal;
-    font-family: 'Monsieur La Doulaise', cursive;
-    margin-top:60px;
-}
-
-
-.background{
-    background-color: white;
-    width: 50vw;
-    height: 30vw;
-    border-radius: 30px;
-    margin: 60px auto
+#heading {
+  text-align: center;
+  font-size: 80px;
+  color: #2b1008;
+  font-weight: normal;
+  font-family: "Monsieur La Doulaise", cursive;
+  margin-top: 60px;
 }
 
-.img{
-    width: 50vw;
-    height: auto;
-    margin:0 auto;
-    border-top-left-radius:30px;
-    border-top-right-radius:30px;
-    
+.background {
+  background-color: white;
+  width: 45vw;
+  height: 30vw;
+  border-radius: 30px;
+  margin: 60px auto;
 }
-.food-title{
-    color: black;
-    text-align: left;
-    padding-top: 1px;
-    padding-left: 30px;
-    font-size: 25px;
-    font-family: 'Open Sans', sans-serif;
-    text-size-adjust: auto;
+
+.img {
+  width: 45vw;
+  height: auto;
+  margin: 0 auto;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
 }
-.description{
-    font-family: 'Crimson Text', serif;
-    text-align:left;
-    margin-left: 30px
-    
+.food-title {
+  color: black;
+  text-align: left;
+  padding-top: 1px;
+  padding-left: 30px;
+  font-size: 25px;
+  font-family: "Open Sans", sans-serif;
+  text-size-adjust: auto;
+}
+.description {
+  font-family: "Crimson Text", serif;
+  text-align: left;
+  margin-left: 30px;
+}
+
+.link {
+  margin-left: 30px;
 }
